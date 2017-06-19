@@ -1,6 +1,6 @@
 # rm-folder
 
-remove folder recursive
+remove folder recursively
 
 ## Install
 
