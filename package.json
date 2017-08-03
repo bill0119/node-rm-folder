@@ -1,6 +1,6 @@
 {
   "name": "rm-folder",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "remove folder",
   "main": "rm-folder.js",
   "scripts": {
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/bill0119/node-rm-folder/issues"
   },
-  "homepage": "https://github.com/bill0119/node-rm-folder#readme"
+  "homepage": "https://github.com/bill0119/node-rm-folder#readme",
+  "directories": {
+    "test": "test"
+  }
 }
